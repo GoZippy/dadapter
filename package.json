@@ -4,7 +4,7 @@
   "type": "module",
   "dependencies": {
     "acpreact": "^1.0.4",
-    "discord.js": "^14.14.1",
+    "discord.js": "^14.27.0",
     "dotenv": "^16.3.1"
   }
 }
